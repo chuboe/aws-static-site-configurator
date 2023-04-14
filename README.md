@@ -13,3 +13,7 @@ The purpose of this project is to make creating aws s3 static sites via the cli 
 * Update the src/web.properties with the proper details
 * Run src/creates3site.sh to create the bucket and push the initial content
 * Run src/syncs3site.sh to push incremental content
+
+# Credit
+
+* https://www.sammeechward.com/aws-cli-s3-static-website
