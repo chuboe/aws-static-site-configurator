@@ -39,8 +39,8 @@ The purpose of this project is to make creating aws s3 static sites via the cli 
                 "s3:DeleteObject"
             ],
             "Resource": [
-                "arn:aws:s3:::some-bucket",
-                "arn:aws:s3:::some-bucket/*"
+                "arn:aws:s3:::some-bucket-name-01",
+                "arn:aws:s3:::some-bucket-name-01/*"
             ]
         }
     ]
